@@ -10,6 +10,7 @@ package com.mycompany.midterm;
  */
 public class MidTerm {
 //In the Git
+    // This is a branch 
     public static void main(String[] args) {
         Voice voice = new Voice(100, true);
         Radio radio = new Radio(voice);
